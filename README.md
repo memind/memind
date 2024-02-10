@@ -17,6 +17,7 @@ Email: memin.d2112@gmail.com
 [![Hangfire](https://img.shields.io/badge/Hangfire-orange?logo=hangfire)](https://www.hangfire.io/)
 [![Consul](https://img.shields.io/badge/Consul-brightgreen?logo=consul)](https://www.consul.io/)
 [![Redis](https://img.shields.io/badge/Redis-red?logo=redis)](https://redis.io/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-pink?logo=graphql)](https://graphql.org/)
 
 ## Frontend:
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -32,7 +33,6 @@ Email: memin.d2112@gmail.com
 [![Redux](https://img.shields.io/badge/Redux-blue?logo=redux)](https://redux.js.org/)
 [![MobX](https://img.shields.io/badge/MobX-blue?logo=mobx)](https://mobx.js.org/)
 [![Formik/Yup](https://img.shields.io/badge/Formik%2FYup-blue)](https://formik.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-pink?logo=graphql)](https://graphql.org/)
 
 ## Database:
 [![MSSQL](https://img.shields.io/badge/MSSQL-blue?logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
