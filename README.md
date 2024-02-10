@@ -72,6 +72,7 @@ Email: memin.d2112@gmail.com
 ## Storage:
 [![AWS S3](https://img.shields.io/badge/AWS%20S3-orange?logo=amazon-s3)](https://aws.amazon.com/s3/)
 [![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-blue?logo=azure)](https://azure.microsoft.com/en-us/services/storage/blobs/)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-orange?logo=cloudinary)](https://cloudinary.com/)
 
 ## DApp/Blockchain:
 [![Motoko](https://img.shields.io/badge/Motoko-brightgreen?logo=motoko)](https://sdk.dfinity.org/docs/language-guide/motoko.html)
