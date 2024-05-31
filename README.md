@@ -78,28 +78,6 @@ Email: memin.d2112@gmail.com
 [![Motoko](https://img.shields.io/badge/Motoko-brightgreen?logo=motoko)](https://sdk.dfinity.org/docs/language-guide/motoko.html)
 [![Solidity](https://img.shields.io/badge/Solidity-orange?logo=solidity)](https://docs.soliditylang.org/)
 
-## Patterns:
-- Repository
-- Unit Of Work
-- CQRS
-- Mediator
-- Gateway Aggregation
-- BFF
-- Retry
-- Circuit Breaker
-- Factory Method
-- Builder
-- Template
-- Decorator
-
-## GitHub İstatistikleri:
-<a href="http://www.github.com/https://github.com/memind"><img src="https://github-readme-stats.vercel.app/api?username=memind&show_icons=true&hide=&count_private=true&title_color=daa520&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/memind's GitHub stats" /></a>
-
-<a href="http://www.github.com/https://github.com/memind"><img src="https://github-readme-streak-stats.herokuapp.com/?user=memind&stroke=daa520&background=1c1917&ring=e8c979&fire=e8c979&currStreakNum=daa520&currStreakLabel=daa520&sideNums=990000&sideLabels=daa520&dates=daa520&hide_border=true" /></a>
-
-<a href="https://github.com/https://github.com/memind" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memind&langs_count=10&title_color=daa520&text_color=daa520&icon_color=daa520&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 ## Projects:
 - [MeminToDo](https://github.com/memind/MeminToDo)
 - [SocialMemin](https://github.com/memind/SocialMemin)
