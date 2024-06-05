@@ -18,10 +18,12 @@ Email: memin.d2112@gmail.com
 [![Consul](https://img.shields.io/badge/Consul-brightgreen?logo=consul)](https://www.consul.io/)
 [![Redis](https://img.shields.io/badge/Redis-red?logo=redis)](https://redis.io/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-pink?logo=graphql)](https://graphql.org/)
+[![DevExpress](https://img.shields.io/badge/DevExpress-orange?logo=devexpress)](https://www.devexpress.com/)
 
 ## Frontend:
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML/CSS/Bootstrap](https://img.shields.io/badge/HTML%2FCSS%2FBootstrap-9cf)](https://getbootstrap.com/)
+[![DevExtreme](https://img.shields.io/badge/DevExtreme-blue?logo=devextreme)](https://js.devexpress.com/)
 [![JQuery](https://img.shields.io/badge/JQuery-blue?logo=jquery)](https://jquery.com/)
 [![AJAX](https://img.shields.io/badge/AJAX-green)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 [![ReactJS](https://img.shields.io/badge/ReactJS-blue?logo=react)](https://reactjs.org/)
@@ -46,6 +48,7 @@ Email: memin.d2112@gmail.com
 ## ORM:
 [![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-blue?logo=entity-framework)](https://docs.microsoft.com/en-us/ef/core/)
 [![Dapper](https://img.shields.io/badge/Dapper-brightgreen?logo=dapper)](https://dapper-tutorial.net/)
+[![XPO](https://img.shields.io/badge/XPO-blue?logo=devexpress)](https://www.devexpress.com/Products/NET/ORM/)
 
 ## Monitoring/Tracing:
 [![AppMetrics/Prometheus/Grafana](https://img.shields.io/badge/AppMetrics%2FPrometheus%2FGrafana-brightgreen?logo=grafana)](https://grafana.com/)
